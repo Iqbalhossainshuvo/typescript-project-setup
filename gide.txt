@@ -1,4 +1,5 @@
-typescript create and run 
+
+how to create a typescript project?
 
 
 install some dependency
@@ -31,3 +32,4 @@ Now just write tsc in git bash terminal you get a file in dist file
     tsc --watch 
 when use this commend its automatic convert file
 
+fllow this url : https://github.com/Iqbalhossainshuvo/typescript-project-setup/tree/main
